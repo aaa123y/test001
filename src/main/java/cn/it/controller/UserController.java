@@ -8,7 +8,7 @@ import cn.it.jopo.User;
  */
 public class UserController {
     public static void main(String[] args) {
-        User u=new User(1,"李白","1234","男");
+        User u=new User(1,"李白","123456","男");
         System.out.println(u);
     }
 }
